@@ -27,8 +27,6 @@ compound words are also ignored.
 
 non-lemmas are ignored, e.g. plurals
 
-these programs are not written well.
-
 the structure of the data files is ugly.
 
 the names of the `.sh` and `.awk` files are ugly
