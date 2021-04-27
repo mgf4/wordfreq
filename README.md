@@ -21,12 +21,9 @@ number that corresponds to the number of values used in that file. (i.e.
 
 bugs
 ----
-if a word is not in etymonline.com, then it is ignored.
+if a word is not in etymonline.com, it is ignored.
 
-compound words are also ignored.
+compound words are ignored.
 
 non-lemmas are ignored, e.g. plurals
 
-the structure of the data files is ugly.
-
-the names of the `.sh` and `.awk` files are ugly
